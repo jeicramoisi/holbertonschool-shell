@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod cp-permissions <hello><olleh>
+chmod --reference=hello olleh
