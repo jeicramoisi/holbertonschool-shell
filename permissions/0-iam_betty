@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Amelie0116+' > | su betty
+su betty
